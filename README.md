@@ -10,4 +10,5 @@ certain saving through.
 NOTE:
 
 -Does not yet support all default classes
+
 -Saving functionality works, but loading characters does not.
